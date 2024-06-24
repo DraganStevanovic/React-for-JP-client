@@ -482,3 +482,31 @@ hiccupboy519@gmail.com / gjwjsehsgurkJIH888
 	discord
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+My portfolio
+
+Java(Spring Framework)
+https://jade.darts.isas.jaxa.jp/#
+
+Java(Spring Framework) + React
+https://moderbit.com
+
+Laravel(PHP)
+https://alphatelemed.com/
+https://www.creema.jp/
+
+Vue+Django
+https://delay.trafficinfo.westjr.co.jp/pc
+
+Nuxt
+https://www.rivalry.com/
+
+Laravel
+https://www.remarket.ch/
+
+Ruby on Rails
+https://docyt.com/
+
+React + Web3
+https://chess.babydogeswap.com/
+///////////////////////////////////////////////////////////////////////////////////////////////////
