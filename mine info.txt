@@ -31,3 +31,19 @@ https://resumeworded.com                     // CV check and Score
 ////////////////////////////////////////////----We info----//////////////////////////////////////
 
 https://github.com/DraganStevanovic/React-for-JP-client/blob/main/reference.txt
+
+
+jenkins
+dragan
+123!@#qweQWE
+
+
+portainer environments - via VPN
+https://portainer.ezmob.dev/  env-DEV / admin / hq6k2QPC$@
+https://portainer.ezmob.net/  env-STG / admin / hq6k2QPC$@
+https://portainer.ezmob.com/  env-PRD / admin / hq6k2QPC$@
+
+
+https://ezmobile.atlassian.net/
+Dragan Stenanovic
+3qa#ebX!zZ4F3YJ7
